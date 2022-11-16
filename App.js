@@ -15,6 +15,7 @@ const App = () => {
     <>
       <StatusBar barStyle="dark-content" />
       <UploadScreen />
+      <Text> mador til is the best</Text>
     </>
   );
 };
